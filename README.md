@@ -41,6 +41,6 @@ Folder Structure
 ---
 
 ```
-/source -- Yona jar file & mesage files which you want to add
-/output -- Updated yona file will be generated here
+/source -- Yona jar file & message files which you want to add or update
+/output -- Updated yona main jar file will be generated here
 ```
